@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; background: #f2f5f4; margin: 0;
+       display: flex; min-height: 100vh; align-items: center; justify-content: center; }
+.login { background: #fff; padding: 2rem; border-radius: 8px; width: 320px;
+         box-shadow: 0 2px 8px rgba(0,0,0,.1); }
+h1 { margin-top: 0; font-size: 1.4rem; color: #1f6b3a; }
+label { display: block; margin-top: 1rem; font-size: .9rem; }
+input { width: 100%; padding: .5rem; margin-top: .3rem; box-sizing: border-box; }
+button { width: 100%; margin-top: 1.2rem; padding: .6rem; border: 0;
+         background: #1f6b3a; color: #fff; border-radius: 4px; cursor: pointer; }
+#mensaje { min-height: 1.2rem; margin: .8rem 0 0; font-size: .85rem; color: #b00020; }
+#mensaje.ok { color: #1f6b3a; }
