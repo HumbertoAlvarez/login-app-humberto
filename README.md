@@ -1,5 +1,5 @@
 # Login App - Humberto Alvarez
-
+Versión 1.0.0: formulario de inicio de sesión con validación de campos vacíos
 Formulario de inicio de sesión con HTML, CSS y JavaScript.
 
 ## Estrategia de ramas
